@@ -3,7 +3,7 @@
 Login to the Sonarqube using following credentials:
 
 Username - admin
-Password - admin@123
+Password - Admin@123
 
 1. Click the Create new project button.
 2. Give your project a Project key and a Display name and click the Set Up button.
